@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Daniyal Khatri 👋
 
-<!--
-**Daniyal-Khatri/Daniyal-Khatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building [SaaSListy](https://saaslisty.com)** — an AI tools directory to discover tools, reviews and complete workflows.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 **SaaSListy.com** — don't find an AI tool, find the whole workflow. Curating AI tools across writing, image, video, code and audio.
+- 🔍 **SEO & WordPress** — building and growing directory-style websites.
+- 🧠 **AI tools** — testing and reviewing the tools people actually use.
+
+### Skills & tools
+
+WordPress · SEO · AI Tools · Content Strategy · HTML/CSS
+
+### Connect with me
+
+- 🌐 Website: https://saaslisty.com
+- 📘 Facebook: https://www.facebook.com/daniyalkhatrioffical/
+- 🆔 ORCID: https://orcid.org/0009-0000-5830-3547
